@@ -1,0 +1,17 @@
+[
+ {
+  "id": 1,
+  "kieuphong": 1,
+  "price": 100000
+ },
+ {
+  "id": 5,
+  "kieuphong": 2,
+  "price": 5000000
+ },
+ {
+  "id": 5,
+  "kieuphong": 3,
+  "price": 10000000
+ }
+]
